@@ -1,4 +1,4 @@
-[![MasterHead](https://tr.pinterest.com/pin/7881368092787308/
+[![MasterHead](https://tr.pinterest.com/pin/7881368092787308/)
 
 <h1 align="center">Hi 👋, I'm Elif Orencik</h1>
 <h3 align="center">Software engineer passionate about crafting efficient and elegant solutions.</h3>
