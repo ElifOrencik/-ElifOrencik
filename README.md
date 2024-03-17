@@ -1,4 +1,4 @@
-[![MasterHead](https://tr.pinterest.com/pin/7881368092787308/)
+[![MasterHead]([https://](https://tr.wikipedia.org/wiki/Resim#/media/Dosya:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg))
 
 <h1 align="center">Hi 👋, I'm Elif Orencik</h1>
 <h3 align="center">Software engineer passionate about crafting efficient and elegant solutions.</h3>
